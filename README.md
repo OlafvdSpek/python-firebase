@@ -51,5 +51,5 @@ How to use
 License
 -------
 
-django-firebase is BSD licensed.
+python-firebase is BSD licensed.
 
